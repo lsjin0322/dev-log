@@ -12,7 +12,9 @@
 Notion
 https://www.notion.so/34bf07c99a898066bfe7db89b14a78de?source=copy_link
 
-Language
+
+
+[Language]
 
 Python
 https://www.notion.so/python-34bf07c99a8980ab825ad47d6ce557e4?source=copy_link
