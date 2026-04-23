@@ -21,7 +21,7 @@
 ### 📂 Repository Index
 * 📘 [**Languages**](./languages) : 언어별 핵심 문법 및 기초 예제 실습
 * 🏗️ [**Projects**](./projects) : 실무 적용 중심의 결과물 (GUI, Web)
-* 🧩 [**Algorithms**](./algorithms) : 백준/프로그래머스 문제 해결 기록
+* 🧩 [**Algorithms**](./algorithms) : 문제 해결 기록
 * 📡 [**CS-Fundamental**](./CS-fundamental) : 운영체제, 네트워크 등 이론 요약
 
 ---
