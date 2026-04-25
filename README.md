@@ -35,12 +35,12 @@
 ### 📂 REPOSITORY
 각 개별 저장소로 연결되는 링크입니다.
 
-* 📂 [Python Archive](https://github.com/본인의아이디/python) - 기초 문법 및 주피터 노트북 기록
-* 📂 [Web Archive](https://github.com/본인의아이디/web) - HTML/CSS 및 웹 결과물
-* 📂 [Java Archive](https://github.com/본인의아이디/java) - 자바 기초 및 응용 구현
-* 📂 [C++ Archive (soo)](https://github.com/본인의아이디/soo) - C++ 로직 구성 및 문제 해결
-* 📂 [Eclipse](https://github.com/본인의아이디/Eclipse) - IDE 환경 프로젝트 기록
-* 📂 [Desktop Tutorial](https://github.com/본인의아이디/desktop-tutorial) - GitHub 활용 가이드
+* 📂 [Python Archive](https://github.com/lsjin0322/python) - 기초 문법 및 주피터 노트북 기록
+* 📂 [Web Archive](https://github.com/lsjin0322/web) - HTML/CSS 및 웹 결과물
+* 📂 [Java Archive](https://github.com/lsjin0322/java) - 자바 기초 및 응용 구현
+* 📂 [C++ Archive (soo)](https://github.com/lsjin0322/soo) - C++ 로직 구성 및 문제 해결
+* 📂 [Eclipse](https://github.com/lsjin0322/Eclipse) - IDE 환경 프로젝트 기록
+* 📂 [Desktop Tutorial](https://github.com/lsjin0322/desktop-tutorial) - GitHub 활용 가이드
 
 ---
 
@@ -48,7 +48,7 @@
 #### Bowling Scoreboard 🎳
 * **Stack:** Python / Flet
 * **Content:** 점수 계산 로직 및 GUI UI 구현
-* **Link:** [프로젝트 보러가기](https://github.com/본인의아이디/python/tree/main/mini-project)
+* **Link:** [프로젝트 보러가기](https://github.com/lsjin0322/python/tree/main/mini-project)
 
 ---
 
