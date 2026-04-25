@@ -4,7 +4,7 @@
 ---
 
 ### 📔 THEORY
-학습한 이론과 상세 로그는 **Notion**에서 관리합니다.
+학습한 이론과 상세 로그는 Notion에서 관리합니다.
 
 * <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> [Main Dashboard](https://www.notion.so/34bf07c99a898066bfe7db89b14a78de?source=copy_link)
 * <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> [Language: Python](https://www.notion.so/python-34bf07c99a8980ab825ad47d6ce557e4?source=copy_link)
@@ -33,10 +33,14 @@
 ---
 
 ### 📂 REPOSITORY
-* 📂 [Languages](./languages) - 문법 및 기초 구현
-* 📂 [Projects](./projects) - 기능 중심 결과물
-* 📂 [Algorithms](./algorithms) - (진행 중) 문제 해결 기록
-* 📂 [CS Fundamentals](./cs_fundamentals) - (진행 중) 이론 정리
+각 개별 저장소로 연결되는 링크입니다.
+
+* 📂 [Python Archive](https://github.com/본인의아이디/python) - 기초 문법 및 주피터 노트북 기록
+* 📂 [Web Archive](https://github.com/본인의아이디/web) - HTML/CSS 및 웹 결과물
+* 📂 [Java Archive](https://github.com/본인의아이디/java) - 자바 기초 및 응용 구현
+* 📂 [C++ Archive (soo)](https://github.com/본인의아이디/soo) - C++ 로직 구성 및 문제 해결
+* 📂 [Eclipse](https://github.com/본인의아이디/Eclipse) - IDE 환경 프로젝트 기록
+* 📂 [Desktop Tutorial](https://github.com/본인의아이디/desktop-tutorial) - GitHub 활용 가이드
 
 ---
 
@@ -44,7 +48,7 @@
 #### Bowling Scoreboard 🎳
 * **Stack:** Python / Flet
 * **Content:** 점수 계산 로직 및 GUI UI 구현
-* **Link:** [프로젝트 보러가기](./projects/bowling-game)
+* **Link:** [프로젝트 보러가기](https://github.com/본인의아이디/python/tree/main/mini-project)
 
 ---
 
